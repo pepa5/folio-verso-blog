@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Folio Verso</title><link href="/" rel="alternate"></link><link href="/feeds/pelican.atom.xml" rel="self"></link><id>/</id><updated>2016-06-02T11:55:00-04:00</updated><entry><title>First Post</title><link href="/First%20post.html" rel="alternate"></link><published>2016-06-02T11:55:00-04:00</published><author><name>Pepa</name></author><id>tag:,2016-06-02:First post.html</id><summary type="html">&lt;p&gt;This is my first githubpages post.
+There will be more changes as I work with Pelicana static site generator.
+I want to use Pelican becauese is written in Python and that will give me 
+the opportunity to continue leaning Python.
+There will be changes to this site as I work and continue learning using Pelican and Python.&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
